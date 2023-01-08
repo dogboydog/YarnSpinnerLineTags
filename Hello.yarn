@@ -1,0 +1,7 @@
+title: Hello 
+tags: 
+---
+<<declare $man_said_hello to false as bool>>
+Man: Hello
+<<set $man_said_hello to true>>
+===
